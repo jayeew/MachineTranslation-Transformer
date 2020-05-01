@@ -1,4 +1,4 @@
-# 到英文的机器翻译
+# 中文到英文的机器翻译
 此模型完全基于[keras-transformer](https://github.com/CyberZHG/keras-transformer)，只是把别人的封装拿来简单实践一下<br>
 此外，可以和我另一个基于LSTM的机器翻译项目[MachineTranslation-LSTM](https://github.com/jiayiwang5/MachineTranslation-LSTM)对比学习，二者原始数据一致
 ## 环境配置
